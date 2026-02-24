@@ -1,0 +1,5 @@
+{
+  "name": "CSV JSON CONVERTER",
+  "description": "A powerful and intuitive CSV to JSON and JSON to CSV converter with automatic detection, drag & drop support, and multiple export formats.",
+  "requestFramePermissions": []
+}
