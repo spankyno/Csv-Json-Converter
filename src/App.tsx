@@ -493,7 +493,7 @@ export default function App() {
             </p>
             
             <div className="flex flex-wrap justify-center gap-x-8 gap-y-4 order-1 md:order-2">
-              <a href="https://aitorblog.infinityfreeapp.com" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-sm text-stone-600 dark:text-stone-400 hover:text-csv transition-colors font-medium">
+              <a href="https://aitorsanchez.pages.dev/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-sm text-stone-600 dark:text-stone-400 hover:text-csv transition-colors font-medium">
                 <ExternalLink size={16} /> Mi Blog
               </a>
               <a href="mailto:blog.cottage627@passinbox.com" className="flex items-center gap-2 text-sm text-stone-600 dark:text-stone-400 hover:text-csv transition-colors font-medium">
